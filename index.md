@@ -4,9 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Click to view Seek Profile](https://www.seek.co.nz/profile/me).
+[Click to view Seek Profile](https://www.seek.co.nz/profile/me){:target="_blank"}
 
-[Click to view Linkedin Profile](https://www.linkedin.com/in/jayesh-dalvi-a114b079/).
+[Click to view Linkedin Profile](https://www.linkedin.com/in/jayesh-dalvi-a114b079/){:target="_blank"}
 
 There should be whitespace between paragraphs.
 
