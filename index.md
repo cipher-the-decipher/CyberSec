@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](https://www.seek.co.nz/profile/me).
+[Link to Seek Profile](https://www.seek.co.nz/profile/me).
 
 There should be whitespace between paragraphs.
 
