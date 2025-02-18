@@ -12,8 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Introduction
 
-Always exploring new security frameworks, CTF challenges, and automation in cybersecurity. Lifelong learner, sharing knowledge through open-source projects and research.
-
+Lifelong learner and Always exploring new things in cybersecurity.
 ## Header 2
 
 > This is a blockquote following a header.
